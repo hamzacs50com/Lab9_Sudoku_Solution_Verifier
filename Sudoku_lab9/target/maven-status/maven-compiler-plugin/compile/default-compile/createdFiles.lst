@@ -1,0 +1,10 @@
+model\ValidationResult.class
+verifier\BaseVerifier.class
+verifier\SequentialVerifier.class
+verifier\Mode3Verifier.class
+app\Main.class
+util\CSVParser.class
+verifier\Verifier.class
+verifier\Mode27Verifier.class
+model\SudokuBoard.class
+verifier\VerifierFactory.class
